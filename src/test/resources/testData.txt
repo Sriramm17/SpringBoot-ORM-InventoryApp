@@ -1,0 +1,4 @@
+{"itemId":1,"itemName":"item1","itemEnteredByUser":"user1","itemEnteredDate": "2020-05-10T13:00:41.499","itemBuyingPrice":50.0,"itemSellingPrice":55.0,"itemLastModifiedDate": "2020-05-10T13:00:41.498","itemStatus": "AVAILABLE"}
+{"itemId":2,"itemName":"item2","itemEnteredByUser":"user1","itemEnteredDate": "2020-05-10T13:00:41.499","itemBuyingPrice":50.0,"itemSellingPrice":55.0,"itemLastModifiedDate": "2020-05-10T13:00:41.498","itemStatus": "AVAILABLE"}
+{"itemId":3,"itemName":"item3","itemEnteredByUser":"user2","itemEnteredDate": "2020-05-10T13:00:41.499","itemBuyingPrice":50.0,"itemSellingPrice":55.0,"itemLastModifiedDate": "2020-05-10T13:00:41.498","itemStatus": "AVAILABLE"}
+{"itemId":4,"itemName":"item4","itemEnteredByUser":"user2","itemEnteredDate": "2020-05-10T13:00:41.499","itemBuyingPrice":50.0,"itemSellingPrice":55.0,"itemLastModifiedDate": "2020-05-10T13:00:41.498","itemStatus": "AVAILABLE"}
