@@ -21,9 +21,9 @@ import lombok.Data;
 public class Item {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int itemId;
-	private String itemName;
-	private String itemEnteredByUser;
+	private int item121212Id;
+	private String itemN121212ame;
+	private String itemEnt121212eredByUser;
 	@CreationTimestamp
 	private Timestamp itemEnteredDate;
 	private double itemBuyingPrice;
